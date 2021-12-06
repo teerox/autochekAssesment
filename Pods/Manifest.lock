@@ -1,0 +1,44 @@
+PODS:
+  - RxBlocking (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - RxTest (6.2.0):
+    - RxSwift (= 6.2.0)
+  - SDWebImage/Core (5.12.1)
+  - SDWebImageSVGCoder (1.6.0):
+    - SDWebImage/Core (~> 5.6)
+
+DEPENDENCIES:
+  - RxBlocking (= 6.2.0)
+  - RxCocoa (= 6.2.0)
+  - RxSwift (= 6.2.0)
+  - RxTest (= 6.2.0)
+  - SDWebImageSVGCoder
+
+SPEC REPOS:
+  trunk:
+    - RxBlocking
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - SDWebImage
+    - SDWebImageSVGCoder
+
+SPEC CHECKSUMS:
+  RxBlocking: 0b29f7d2079109a8de49c411381bed7c33ef1eeb
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  RxTest: 0c692fa672b694373ba86d2b00033595297a2831
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  SDWebImageSVGCoder: 020cc0f1ab0ef8ca63a9365c03421d67aa3d4a46
+
+PODFILE CHECKSUM: c34540d15c7ebbabf36a467bcb1d191ea3d9c888
+
+COCOAPODS: 1.11.2
